@@ -18,6 +18,9 @@
 
   --button-bg: var(--primary);
   --button-text: #fff;
+  --fun-shadow: 0 2px 12px #ffecb366;
+  --fun-corner: 25px;
+  --cell-grad: linear-gradient(121deg, #e8f5e9 38%, #fafafa 90%);
 }
 
 [data-theme="dark"] {
